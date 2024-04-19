@@ -17,7 +17,7 @@ Calculates repetition for a conversation file structured with the BME method
  "input_example.csv"
  
 ## Requirements: 
- Python 3.10.2
- spaCy 3.7.2
- pandas 1.5.0
- numpy 1.23.3
+- Python 3.10.2
+- spaCy 3.7.2
+- pandas 1.5.0
+- numpy 1.23.3
