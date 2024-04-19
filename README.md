@@ -16,7 +16,8 @@ Calculates repetition for a conversation file structured with the BME method
 ## To test this code, a sample of the Multisimo Corpus [https://multisimo.eu/datasets.html] (first 20 seconds of every conversation is provided) 
 
  "input_example.csv"
- (an example of output is also provided: "output_example.csv) 
+ 
+ (an example of output is also provided: "output_example".csv) 
  
 ## Requirements: 
 - Python 3.10.2
